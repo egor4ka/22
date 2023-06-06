@@ -1,0 +1,4 @@
+V:\fasm\22-25\22\22\bin\Debug\22.exe
+V:\fasm\22-25\22\22\bin\Debug\22.pdb
+V:\fasm\22-25\22\22\obj\x86\Debug\22.exe
+V:\fasm\22-25\22\22\obj\x86\Debug\22.pdb
